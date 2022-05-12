@@ -1,7 +1,7 @@
 # titanic
-Repository for Python project with TensorFlow for BIAI lessons.
-
-How to check if you could survive titanic distaster?
+Repository for Python project with TensorFlow for BIAI lessons.  
+  
+How to check if you could survive titanic distaster?  
     1. Build time machine and back to 1912  
     2. Go to Southampton / Cherbourg / Queenstown / Nowy Jork  
     ...  
