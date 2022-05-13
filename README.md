@@ -7,5 +7,6 @@ How to check if you could survive titanic distaster?
     ...  
     1. Install python [ex 3.10.4]  
     2. Install tensorflow (pip install tensorflow)  
-    3. Install jupyter notebook (pip install notebook)  
-    4. Open project (jupyter notebook)  
+    3. Install jupyter notebook (pip install notebook) 
+    4. Install pandas (pip install pandas)
+    5. Open project (jupyter notebook)  
