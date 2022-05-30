@@ -8,6 +8,15 @@ How to check if you could survive titanic distaster?
 2. Go to Southampton / Cherbourg / Queenstown / Nowy Jork  
    ...
 3. Install python [ex 3.10.4]
-4. Install tensorflow (pip install tensorflow)
-5. Install jupyter notebook (pip install notebook)
-6. Open project (jupyter notebook)
+4. Install tensorflow
+```
+pip install tensorflow
+```
+5. Install jupyter notebook
+```
+pip install notebook
+```
+6. Open project
+```
+jupyter notebook
+```
