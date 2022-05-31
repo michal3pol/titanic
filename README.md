@@ -1,13 +1,22 @@
-# titanic
-Repository for Python project with TensorFlow for BIAI lessons.  
-  
-How to check if you could survive titanic distaster?  
-    1. Build time machine and back to 1912  
-    2. Go to Southampton / Cherbourg / Queenstown / Nowy Jork  
-    ...  
-    1. Install python [ex 3.10.4]  
-    2. Install tensorflow (pip install tensorflow)   
-    3. Install jupyter notebook (pip install notebook)    
-    4. Install pandas (pip install pandas)   
-    5. Install scikit (pip install scikeras[tensorflow])    
-    6. Open project (jupyter notebook)   
+# Titanic
+
+Repository for Python project with TensorFlow for BIAI classes.
+
+How to check if you could survive titanic distaster?
+
+1. Build time machine and back to 1912
+2. Go to Southampton / Cherbourg / Queenstown / Nowy Jork  
+   ...
+3. Install python [ex 3.10.4]
+4. Install tensorflow
+```
+pip install tensorflow
+```
+5. Install jupyter notebook
+```
+pip install notebook
+```
+6. Open project
+```
+jupyter notebook
+```
